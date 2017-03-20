@@ -87,7 +87,7 @@ puts response.body
 
 When I used the word "car", I got back this:
 
-```json
+```r
 {:cf_ray=>"342a4a121d9d56d5-IAD",
  :content_encoding=>"gzip",
  :content_type=>"application/json",
