@@ -29,7 +29,7 @@ open("http://www.ruby-lang.org/") {|f|
 }
 ```
 
-I wasn't exactly sure how (or if) this would with the Twinword API, but at least Codecademy is getting me familiar with the language.  Their handful of lessons covered things such as 
+I wasn't exactly sure how (or if) this would work with the Twinword API, but at least Codecademy is getting me familiar with the language.  Their handful of lessons covered things such as 
 - Authentication and API Keys (which I noticed Twinword requires)
 - Making a request (which I know I'd need to do)
 - Parsing JSON (which I think the Twinword API gives back, but I'm not sure)
@@ -87,7 +87,7 @@ puts response.body
 
 When I used the word "car", I got back this:
 
-```r
+```ruby
 {:cf_ray=>"342a4a121d9d56d5-IAD",
  :content_encoding=>"gzip",
  :content_type=>"application/json",
@@ -194,3 +194,7 @@ Phew!  The hard part (the new stuff) was over.  All that was left to do was add 
 ## To-Do
 1. Find a way to hide the API key.
 2. Make sure I don't go beyond the 10,000 query/month limit.
+
+[Previous](entry02-mvp.md)  |  Next
+
+[Table of Contents](../README.md)

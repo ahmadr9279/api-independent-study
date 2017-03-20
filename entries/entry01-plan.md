@@ -103,3 +103,7 @@ Let's reflect for a moment: what general strategies could I or anyone else take 
 1. Learning comes from doing. I decided right away what I wanted to make in order to learn. I don't think it always has to happen right away; sometimes the idea will come organically after tinkering first.  But the sooner, the better.
 2. Identify the constraints of what you want to do. If my idea didn't land in the middle of the venn diagram, I was setting myself up for failure.
 3. Think, think, and think again, but be patient. I didn't come up with my idea as fast as you could read it. I would think for a while, have no ideas, then take a break. The next day, I would think of something, but then realize it didn't land where I wanted it to in the venn diagram.  So I took another break.  These things take time, and they often come to you when you least expect it. So don't just sit at a desk and hope it comes to you. Think about it as you walk around, go from point A to point B, and go about your general day.
+
+[Next](entry02-mvp.md)
+
+[Table of Contents](../README.md)
