@@ -16,7 +16,7 @@ Because I have been a teacher for a while and a learner for much longer, I know 
 
 I spent a while trying to find the intersection between:
 
-<img src="../images/api-venn-diagram.png" style="width: 400px;" />
+<img src="../images/01-api-venn-diagram.png" style="width: 300px;" />
 
 As I browsed APIs, I had lots of ideas for apps that landed in an intersection between 2 circles:
 
