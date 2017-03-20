@@ -3,7 +3,7 @@
 ## Table of contents
 
 + [Entry 1: Intro / Plan](entries/entry01-plan.md)
-+ Entry 2: MVP
++ [Entry 2: MVP](entries/entry02-mvp.md)
 + Entry 3: Twinword API
 + Entry 4: Gitignore
 + Entry 5: Adding CSS and Deploying
