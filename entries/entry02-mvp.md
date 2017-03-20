@@ -57,3 +57,9 @@ ggd_test("staten island") #=> false
 Bingo, bango, bongo.  This makes for a pretty simple model; all that was left is to build out the application controller and views, right?  Well, I forgot about something.  I needed the words "CAN" and "CAN'T" to come out of the model, as well as the colors green and red to style the css. About an hour later, my [model](https://github.com/brianmueller/green-glass-door/commit/b97848db772c2181944068c12d59cedecf112177), [controller](https://github.com/brianmueller/green-glass-door/commit/2b3e04fcf5553863000d6bca790ca4b3f3656aea), and [views](https://github.com/brianmueller/green-glass-door/commit/ba928c9ff95de7adbc7db61eca773dee46f68141) were done.
 
 MVP: check. Now I'm ready to learn about APIs.
+
+## Takeaways
+
+1. If at first you don't succeed, Google.
+2. Don't be afraid to modify your search query.
+3. Think about the user's experience. I could have made the view say "true" or "false". But it **makes more sense from the user's perspective** to read "_____ can/can't go through the Green Glass Door".
