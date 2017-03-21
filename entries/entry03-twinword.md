@@ -195,6 +195,6 @@ Phew!  The hard part (the new stuff) was over.  All that was left to do was add 
 1. Find a way to hide the API key.
 2. Make sure I don't go beyond the 10,000 query/month limit.
 
-[Previous](entry02-mvp.md)  |  Next
+[Previous](entry02-mvp.md)  |  [Next](entry04-gitignore.md)
 
 [Table of Contents](../README.md)
