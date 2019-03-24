@@ -60,9 +60,8 @@ MVP: check. Now I'm ready to learn about APIs.
 
 ## Takeaways
 
-1. If at first you don't succeed, Google.
-2. Don't be afraid to modify your search query.
-3. Think about the user's experience. I could have made the view say "true" or "false". But it **makes more sense from the user's perspective** to read "_____ can/can't go through the Green Glass Door".
+1. If at first you don't succeed, Google. And if that doesn't work, try modifying your question. Sometimes the right keyword is all it takes to find what you're looking for.
+2. Think about the user's experience. I could have made the view say "true" or "false". But it **makes more sense from the user's perspective** to read "_____ can/can't go through the Green Glass Door".
 
 [Previous](entry01-plan.md)  |  [Next](entry03-twinword.md)
 
