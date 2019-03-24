@@ -187,7 +187,7 @@ Phew!  The hard part (the new stuff) was over.  All that was left to do was add 
 ## Takeaways
 
 1. To learn about something brand new, I found it helpful to go down rabbit holes of Googling.  When I didn't understand something, I'd google it.  In my search results, if I found something in the explanation confusing, I'd google that as well.  [Lather, rinse, repeat](https://en.wikipedia.org/wiki/Lather,_rinse,_repeat).
-2. Read the documentation. Then read it again. If you found yourself confused by it, read it one (or twelve) more time(s).
+2. Read the documentation. Then read it again. If you found yourself confused by it, read it one (or twelve) more time(s). The Twinword API documentation was my best source of troubleshooting.
 3. If I want to add functionality (i.e. **m**odel) to my app, it's best to make sure that functionality works by itself on a single ruby file first. If I tried adding it to the app right away, and the app didn't work, I wouldn't know whether the code was wrong or the code was right but I implemented it wrong. Testing out the API code by itself makes me confident that the code works on its own before implementing it into the entire app.
 
 
