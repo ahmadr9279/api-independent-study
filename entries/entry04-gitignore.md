@@ -73,8 +73,8 @@ I probably wouldn't have noticed this flaw if I hadn't shown it off because the 
 
 ## Takeaways
 
-1. Taking time to find the best solution can sometimes be worth the time it takes to find it (and figure it out).
-2. Testing out the app with friends and family will help reveal bugs in order to get the best possible app that both 1) works, and 2) makes sense.
+1. Taking time to find the best solution can sometimes be worth the time it takes to find it (and figure it out). I spent forever trying to find a reasonable way to hide an API key that wouldn't make me pull my hair out every time I wanted to deploy. If you pull your hair out once trying to find a solution, and it works, then you pulled your hair out once, rather than EVERY TIME YOU DEPLOY. It's an investment if it saves you time in the long run.
+2. Testing out the app with friends and family will help reveal bugs in order to get the best possible app that both 1) works, and 2) makes sense. Thanks, Mom.
 
 ## To-Do
 1. Add noun filter.
