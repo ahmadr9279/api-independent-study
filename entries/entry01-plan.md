@@ -4,7 +4,7 @@ I have spent the past several weeks going through the Flatiron School Prework in
 
 ## What is an API?
 
-Ok, let's start with the basics.  I learned that API stands for **A**pplication **P**rogramming **I**nterface.  My understanding of it is than an API is meant to be a sort of "tunnel" into an application.  This sounds like a sneaky way of hacking into someone's app, but it's not.  An API is built *by* the people who write the code for the app (not someone trying to hack into it).
+Ok, let's start with the basics.  I learned that API stands for **A**pplication **P**rogramming **I**nterface.  My understanding of it is that an API is meant to be a sort of "tunnel" into an application.  This sounds like a sneaky way of hacking into someone's app, but it's not.  An API is built *by* the people who write the code for the app (not someone trying to hack into it).
 
 For example, Google Maps has an API that allows you to use their service on your own app. So apps like Airbnb don't have to reinvent the wheel to make their own apps; they can plot their users' vacation homes and apartment rentals right onto a Google Map, completely integrated into their site.  Neat!
 
